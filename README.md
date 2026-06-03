@@ -32,5 +32,5 @@ Installing Claude and Codex extension was straightforward, so I didn't run into 
 
 I was a little confused about opening the github repo in Cursor, so I had to lookup a Youtube video (https://www.youtube.com/watch?v=ZojjFwAgYmQ) and was able to solve it .
 
-I also asked the agent in Cursor how to push the new .md file to update the repo. 
+I also asked the agent in Cursor how to push the new .md file to update the repo. At first I wasn't able to push the data. It turns out i had to make a token first, after that I was able to push the .md file.
 
